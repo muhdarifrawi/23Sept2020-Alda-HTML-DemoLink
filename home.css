@@ -1,0 +1,13 @@
+.carousel{
+    width:50vh;
+}
+
+.carousel-control-prev-icon{
+    /* background-color:red; */
+    background-image:url("images/left-arrow.png");
+}
+
+.carousel-control-next-icon{
+    /* background-color:red; */
+    background-image:url("images/right-arrow.png");
+}
